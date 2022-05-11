@@ -16,5 +16,5 @@ setup_bazelrio()
 
 local_repository(
     name = "firelib",
-    path = "../firelib",
+    path = "../fireLib",
 )
